@@ -93,23 +93,28 @@ export default function App() {
 
           <div className="glitter-line" />
 
-          <p className="message">
-            I first found you through your cousin's posts,<br />
-            and from that moment, I've been{' '}
-            <span className="highlight">counting on you</span> —
-            even without saying a word.<br /><br />
+         <p className="message">
+  Hi <span className="highlight">Yasemin</span>,<br /><br />
 
-            Today, I finally gathered the courage to say it —<br />
-            <em className="italic-text">I think you are truly cute and beautiful, Azra.</em><br /><br />
+I came across your photos recently, and I genuinely thought you looked
+really beautiful. That made me curious to know the person behind the smile.<br /><br />
 
-            I'm a little shy. I don't say these things easily.<br />
-            It takes me time. But when I do say something,<br />
-            it comes <span className="highlight">genuinely — from the bottom of my heart.</span><br /><br />
+I'm not usually someone who sends messages like this, so this is a little
+outside my comfort zone. But I felt that if I didn't say hello, I might
+regret not trying.<br /><br />
 
-            I would really love to know you more.<br />
-            No pressure, no rush — just sincerely,<br />
-            <em className="italic-text">me wanting to know you.</em>
-          </p>
+I would really love to get to know you better.<br />
+No pressure, no expectations—just an honest conversation if you're open to it.<br /><br />
+
+And please don't judge me for reaching out like this.
+I believe I'm a kind, respectful, and genuine person, and I hope you'll
+give me a chance to introduce myself.<br /><br />
+
+If you're interested, I'd be happy to talk and get to know each other,
+one conversation at a time. 😊
+
+</p>
+
 
           <div className="glitter-line" />
 
