@@ -88,7 +88,7 @@ export default function App() {
 
           <div className="top-icon" aria-label="Love letter">💌</div>
           <p className="to-label">A little something for</p>
-          <h1 className="name">Azra</h1>
+          <h1 className="name">Yasemin</h1>
           <p className="subtitle">— written from the heart —</p>
 
           <div className="glitter-line" />
