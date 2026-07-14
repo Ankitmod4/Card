@@ -88,13 +88,13 @@ export default function App() {
 
           <div className="top-icon" aria-label="Love letter">💌</div>
           <p className="to-label">A little something for</p>
-          <h1 className="name">Yasemin</h1>
+          <h1 className="name">Yasha</h1>
           <p className="subtitle">— written from the heart —</p>
 
           <div className="glitter-line" />
 
          <p className="message">
-  Hi <span className="highlight">Yasemin</span>,<br /><br />
+  Hi <span className="highlight">Yasha</span>,<br /><br />
 
 I came across your photos recently, and I genuinely thought you looked
 really beautiful. That made me curious to know the person behind the smile.<br /><br />
