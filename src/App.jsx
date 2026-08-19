@@ -112,48 +112,7 @@ export default function App() {
             Hola, Elvs 💗
             <br /><br />
 
-            Quiero empezar esta carta pidiéndote perdón si te hice sentir mal.
-            Nunca fue mi intención hacerte enojar o lastimarte.
-
-            <br /><br />
-
-            Cuando me pediste dinero, mi respuesta no significaba que no quisiera
-            tener un detalle contigo. La verdad es que sentí un poco de miedo y
-            de inseguridad. Apenas nos estamos conociendo y, siendo completamente
-            sincero, todavía me cuesta enviar dinero a alguien que recién conozco.
-
-            <br /><br />
-
-            Espero que puedas entender que no fue falta de cariño ni de interés,
-            sino simplemente una decisión basada en la prudencia.
-
-            <br /><br />
-
-            Quiero que sepas algo importante: nunca me negué a darte un regalo.
-            De hecho, me haría mucha ilusión enviarte un regalo bonito elegido
-            especialmente para ti. Para mí, un regalo tiene más significado que
-            simplemente enviar dinero.
-
-            <br /><br />
-
-            Me gusta hablar contigo y conocer más de ti cada día. No quisiera que
-            este malentendido termine con nuestras conversaciones.
-
-            <br /><br />
-
-            Si te hice sentir decepcionada o pensaste que no me importabas,
-            te pido perdón de corazón. Mi intención siempre ha sido tratarte con
-            respeto, sinceridad y cariño.
-
-            <br /><br />
-
-            Ojalá puedas perdonarme y darme la oportunidad de seguir conociéndote.
-            Espero que podamos dejar este momento atrás y seguir hablando con una
-            sonrisa.
-
-            <br /><br />
-
-            Gracias por leer esta carta.
+            Quiero disculparme por coquetear de esa manera. No quiero que te sientas enojada; no sabía si lo tomarías como un coqueteo sano o como una broma. De verdad te encontré muy linda y hermosa. Me gustas de verdad y quiero estar contigo. Por favor, perdóname.
 
             <br /><br />
 
