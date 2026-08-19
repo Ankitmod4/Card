@@ -102,14 +102,14 @@ export default function App() {
 
           <p className="to-label">Una carta para</p>
 
-          <h1 className="name">Juliana</h1>
+          <h1 className="name">Elvs 💗</h1>
 
           <p className="subtitle">— escrita con sinceridad —</p>
 
           <div className="glitter-line" />
 
           <p className="message">
-            Hola, Juliana.
+            Hola, Elvs 💗
             <br /><br />
 
             Quiero empezar esta carta pidiéndote perdón si te hice sentir mal.
