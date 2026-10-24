@@ -100,23 +100,31 @@ export default function App() {
 
           <div className="top-icon">💌</div>
 
-          <p className="to-label">Una carta para</p>
+          <p className="to-label">Для</p>
 
-          <h1 className="name">Elvs 💗</h1>
+          <h1 className="name">Катерина 💗</h1>
 
-          <p className="subtitle">— escrita con sinceridad —</p>
+          <p className="subtitle">— с искренностью —</p>
 
           <div className="glitter-line" />
 
           <p className="message">
-            Hola, Elvs 💗
+            Привет, Катерина 💗
             <br /><br />
 
-            Quiero disculparme por coquetear de esa manera. No quiero que te sientas enojada; no sabía si lo tomarías como un coqueteo sano o como una broma. De verdad te encontré muy linda y hermosa. Me gustas de verdad y quiero estar contigo. Por favor, perdóname.
+            Я хочу искренне извиниться за то, что рассказал о том, о чём ты не хотела говорить. Мне жаль, что я мог тебя расстроить или заставить чувствовать себя неловко. Я понимаю, что это была личная тема, и впредь буду уважать твои границы.
 
             <br /><br />
 
-            Con mucho cariño,
+            Прости меня, пожалуйста, если я причинил тебе боль. Мне бы хотелось начать с тобой дружбу и узнать друг друга лучше. Если ты не против, можем начать нашу дружбу с чистого листа? Но я пойму и приму любое твоё решение.
+
+            <br /><br />
+
+            Ещё раз прости меня, пожалуйста. Я надеюсь, что ты не держишь на меня зла.
+
+            <br /><br />
+
+            С теплом,
 
             <br /><br />
 
@@ -126,7 +134,7 @@ export default function App() {
           <div className="glitter-line" />
 
           <div className="signature-block">
-            <p className="from-label">Con cariño</p>
+            <p className="from-label">С теплом</p>
             <p className="signature">Ankit</p>
 
             <span className="dev-badge">
