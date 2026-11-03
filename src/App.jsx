@@ -134,7 +134,7 @@ export default function App() {
           <div className="glitter-line" />
 
           <div className="signature-block">
-            <p className="from-label">С теплом</p>
+            <p className="from-label">With warmth</p>
             <p className="signature">Ankit</p>
 
             <span className="dev-badge">
