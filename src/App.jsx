@@ -100,31 +100,31 @@ export default function App() {
 
           <div className="top-icon">💌</div>
 
-          <p className="to-label">Для</p>
+          <p className="to-label">For</p>
 
-          <h1 className="name">Катерина 💗</h1>
+          <h1 className="name">Hello, Philippines Girl 💗</h1>
 
-          <p className="subtitle">— с искренностью —</p>
+          <p className="subtitle">— with sincerity —</p>
 
           <div className="glitter-line" />
 
           <p className="message">
-            Привет, Катерина 💗
+            Hey, I'm really sorry. I think you misunderstood what I was trying to say. What I actually meant was that you look incredibly beautiful, and I was so amazed by your beauty that I jokingly said I was "fucked up" — I meant that I was completely blown away, almost fainting because of how beautiful you are. I never meant anything inappropriate or disrespectful.
             <br /><br />
 
-            Я хочу искренне извиниться за то, что рассказал о том, о чём ты не хотела говорить. Мне жаль, что я мог тебя расстроить или заставить чувствовать себя неловко. Я понимаю, что это была личная тема, и впредь буду уважать твои границы.
-
-            <br /><br />
-
-            Прости меня, пожалуйста, если я причинил тебе боль. Мне бы хотелось начать с тобой дружбу и узнать друг друга лучше. Если ты не против, можем начать нашу дружбу с чистого листа? Но я пойму и приму любое твоё решение.
+            I understand that we're from different countries and cultural backgrounds, so sometimes the way we express ourselves or use certain words can be different. Maybe my choice of words gave you the wrong impression, and I'm genuinely sorry for that.
 
             <br /><br />
 
-            Ещё раз прости меня, пожалуйста. Я надеюсь, что ты не держишь на меня зла.
+            If my words made you uncomfortable or hurt your feelings, please forgive me. I'll be more careful with my words from now on because I would never want to make you feel uncomfortable.
 
             <br /><br />
 
-            С теплом,
+            I genuinely wanted to get to know you and have a conversation with you. I hope you can understand my intentions and give me a chance to clear up this misunderstanding.
+
+            <br /><br />
+
+            I'm truly sorry. Please don't judge my intentions based on one poorly worded sentence. I hope you can forgive me. ❤️
 
             <br /><br />
 
